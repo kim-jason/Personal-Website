@@ -1,2 +1,2 @@
 # Personal-Website
-Personal website
+Personal website to showcase my previous work. 
